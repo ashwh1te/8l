@@ -33,7 +33,7 @@ body {
 }
 
 .my-text-color {
-    color: hsla(0,0%,100%,.6);
+    color: hsl(0deg 0% 0% / 60%);
 }
 
 .btn-open-form {
