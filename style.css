@@ -1,0 +1,41 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+
+    background-image: url(./images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header {
+    background-color: #141414;
+}
+
+#logo {
+    width: 100px;
+}
+
+#footer {
+    background-color: #141414;
+}
+
+#main-form {
+    background-color: rgba(20, 20, 20, 0.9);
+}
+
+#pop-up {
+    display: none;
+}
+
+.my-text-color {
+    color: hsla(0,0%,100%,.6);
+}
+
+.btn-open-form {
+    color: gray;
+}
