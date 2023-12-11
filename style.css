@@ -20,6 +20,10 @@ body {
     width: 100px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 55%);
+}
+
 #footer {
     background-color: #ffffff;
 }
