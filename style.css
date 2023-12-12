@@ -42,4 +42,5 @@ body {
 
 .btn-open-form {
     color: gray;
+    border-radius: 5px;
 }
