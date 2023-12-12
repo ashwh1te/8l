@@ -44,6 +44,12 @@ body {
     color: hsl(0deg 0% 0% / 60%);
 }
 
+.btn-success {
+    color: #fff;
+    background-color: #2e612d;
+    border-color: #2e612d;
+}
+
 .p-4 {
     padding: 2rem!important;
     border-radius: 16px;
