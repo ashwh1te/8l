@@ -32,6 +32,10 @@ body {
     background-color: rgba(20, 20, 20, 0.9);
 }
 
+.bg-opacity-50 {
+    --bs-bg-opacity: 0;
+}
+
 #pop-up {
     display: none;
 }
