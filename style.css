@@ -40,7 +40,11 @@ body {
     color: hsl(0deg 0% 0% / 60%);
 }
 
+.p-4 {
+    padding: 2rem!important;
+    border-radius: 16px;
+}
+
 .btn-open-form {
     color: gray;
-    border-radius: 5px;
 }
