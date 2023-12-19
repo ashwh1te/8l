@@ -20,7 +20,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     async function post(user) {
         try {
-            let response = await fetch('https://formcarry.com/s/ZexmA6B0Sr', {
+            let response = await fetch('https://formcarry.com/s/z1MRAU_8T6', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json;charset=UTF-8' 
